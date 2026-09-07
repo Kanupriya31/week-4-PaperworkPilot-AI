@@ -1,0 +1,19 @@
+{
+  "dataset": "PaperworkPilot Week 4 Golden Dataset v1",
+  "version": "1.0.0",
+  "approved_at": "2026-09-06",
+  "approval_method": "Owner returned the final-approval workbook with Review Decision set to Approve for all 40 cases.",
+  "source_workbook": "PaperworkPilot_Week4_Golden_Dataset_Review2.xlsx",
+  "source_workbook_sha256": "21E58B75DB01FCCE13947B051156F572F928C48254FEF10351B992C35EFC9532",
+  "approved_cases": 40,
+  "needs_correction": 0,
+  "skipped": 0,
+  "pending": 0,
+  "scenario_mix": {
+    "happy": 20,
+    "edge": 12,
+    "known_failure": 6,
+    "adversarial": 2
+  },
+  "label_status": "reviewed"
+}

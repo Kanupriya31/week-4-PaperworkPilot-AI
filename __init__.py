@@ -1,2 +1,2 @@
-"""Stateful PaperworkPilot agent package."""
+"""PaperworkPilot API package."""
 
