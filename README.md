@@ -123,8 +123,6 @@ PaperworkPilot provides navigation—not legal, tax, medical, immigration, finan
 - [Evaluation report](docs/EVALUATION.md)
 - [Live application and demo instructions](LIVE_DEMO.md)
 
-> GitHub upload warning: extract the release archive and upload its **contents** so `agent/`, `backend/`, `public/`, `test/`, and `README.md` appear at the repository root. Do not upload the ZIP as a single repository file.
-
 ## Week 4: measured agent evaluation
 
 The `evaluation/` folder now contains a separate Week 4 benchmark and LangSmith experiment system:
